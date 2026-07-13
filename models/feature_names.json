@@ -1,0 +1,1 @@
+["amount", "amount_to_avg_ratio", "channel", "transaction_type", "is_international", "sender_bank_code", "tx_count_5m", "tx_count_1h", "tx_count_24h", "total_amount_5m", "total_amount_1h", "total_amount_24h", "avg_amount_30d", "unique_recipients_1h", "is_new_recipient", "is_new_device", "hour_of_day", "day_of_week", "is_salary_period", "is_weekend"]

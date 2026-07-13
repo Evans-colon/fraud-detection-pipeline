@@ -1,0 +1,23 @@
+.env
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Data and model artifacts (large, regenerable)
+data/
+models/fraud_model.pkl
+models/fraud_model.onnx
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Environment
+.env
+
+# Editor
+.DS_Store
